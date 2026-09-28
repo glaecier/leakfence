@@ -361,13 +361,8 @@ def home() -> str:
           </div>
 
           <h1>
-            <span class="gradient">Not secrets.</span>
+            <span class="gradient">LeakFence</span>
           </h1>
-
-          <p class="subtitle">
-            inside the CI/CD pipeline and blocks deployment when a potential
-            secret is detected.
-          </p>
         </section>
 
         <section class="status">
