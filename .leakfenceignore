@@ -1,0 +1,9 @@
+# Generated or environment-specific content is not source code.
+.git/*
+.venv/*
+venv/*
+__pycache__/*
+.pytest_cache/*
+.ruff_cache/*
+build/*
+dist/*
