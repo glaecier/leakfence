@@ -361,12 +361,10 @@ def home() -> str:
           </div>
 
           <h1>
-            Ship code.<br>
             <span class="gradient">Not secrets.</span>
           </h1>
 
           <p class="subtitle">
-            LeakFence automatically scans source code for exposed credentials
             inside the CI/CD pipeline and blocks deployment when a potential
             secret is detected.
           </p>
